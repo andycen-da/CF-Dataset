@@ -1,2 +1,2 @@
 # CF-Dataset
-Datasets for CareerFonudry Projects
+Datasets for CareerFoundry Projects
